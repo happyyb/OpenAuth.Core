@@ -7,13 +7,6 @@
 
 **官方文档**  http://doc.openauth.me 
 
-## 官方QQ交流群  
-
-1. ***618473076*** **社区VIP专属QQ群，第一时间提供开发进度、使用手册、1V1专属咨询服务等，如何加入VIP请移步社区置顶帖**
-
-1. 484498493【已满】
-
-1. 626433139【已满】
 
 1. [![快速加群](https://img.shields.io/badge/qq%E7%BE%A4-566344079-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=aa850ac69f1f43ab4be39ecddd6030a937e9236d95966a707fcb667491049fdc)
 
